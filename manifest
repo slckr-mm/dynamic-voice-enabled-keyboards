@@ -11,5 +11,7 @@ requires_flite_tts=1
 requires_flite_version=2.0.0
 splash_rsg_optimization=1
 
+supports_voice_roinput=1
+
 ui_resolutions=hd
 uri_resolution_autosub=$$$RES$$$,no_sd_image,HD,FHD
