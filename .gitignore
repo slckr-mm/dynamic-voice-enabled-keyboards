@@ -1,9 +1,3 @@
 .vscode/launch.json
-out/roku-deploy.zip
-out/.roku-deploy-staging/images/FHD/background.jpg
-out/.roku-deploy-staging/images/HD/background.jpg
-out/.roku-deploy-staging/images/MainMenu_Icon_Center_HD.png
-out/.roku-deploy-staging/images/MainMenu_Icon_Side_HD.png
-out/.roku-deploy-staging/images/splash_hd.jpg
-out/.roku-deploy-staging/manifest
-out/.roku-deploy-staging/source/main.brs
+out/
+.gitignore
