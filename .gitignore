@@ -1,12 +1,5 @@
-
 .vscode/launch.json
 out/roku-deploy.zip
-out/.roku-deploy-staging/components/customAddressKeyboard.xml
-out/.roku-deploy-staging/components/customAddressKeyboardTest.xml
-out/.roku-deploy-staging/components/dynamicKeyboardTest.xml
-out/.roku-deploy-staging/components/dynamicMiniKeyboardTest.xml
-out/.roku-deploy-staging/components/dynamicPinPadTest.xml
-out/.roku-deploy-staging/components/keyboardTestScene.xml
 out/.roku-deploy-staging/images/FHD/background.jpg
 out/.roku-deploy-staging/images/HD/background.jpg
 out/.roku-deploy-staging/images/MainMenu_Icon_Center_HD.png

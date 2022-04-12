@@ -1,0 +1,8 @@
+<component name="AppScene" extends="Scene">
+    <script type="text/brightscript" uri="AppScene.brs" />
+    <children>
+        <Label
+            text="Send me some ECP requests, please. :).     You need to include your IP." >
+        </Label>
+    </children>
+</component>
